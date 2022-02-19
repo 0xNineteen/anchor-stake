@@ -1,0 +1,1 @@
+- `anchor test`: run example staking program 
